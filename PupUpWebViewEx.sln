@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PupUpWebViewEx", "PupUpWebViewEx\PupUpWebViewEx.csproj", "{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC2D36E-CF57-449D-B5FA-F6DA6CC07756}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA0B5E5-C09B-4659-A976-F9C54B865419}
+	EndGlobalSection
+EndGlobal

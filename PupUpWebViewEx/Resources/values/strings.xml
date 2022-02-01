@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PupUpWebViewEx</string>
+    <string name="action_settings">Settings</string>
+	<string name="item1">Pizza</string>
+	<string name="item2">Shout Indian</string>
+	<string name="item3">Chinese</string>
+	<string name="load">Loading....</string>
+	<string name="title">My Title....</string>
+</resources>
